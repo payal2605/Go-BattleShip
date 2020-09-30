@@ -2,7 +2,7 @@
 
 A multiplayer BattleShip Game using Golang and JavaScript. 
 # How to Play? 
-> Open the cmd 
+> Open CMD 
 
 > Run ```go run server.go```
 
